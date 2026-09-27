@@ -1,4 +1,4 @@
-# YouTube Digital Burnout Analyzer
+# YouTube Digital Burnout Analytics Dashboard
 
 A Streamlit research dashboard for exploring language and observed activity associated
 with self-expressed digital burnout in YouTube comments and replies.
