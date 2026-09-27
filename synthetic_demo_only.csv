@@ -1,0 +1,5 @@
+comment_id,user_id,timestamp,text,like_count,reply_count,source_query,video_title,platform
+SYN001,demo_a,2026-09-01T23:10:00Z,I keep scrolling even though I am exhausted. I really need a break from social media.,12,2,social media burnout,Synthetic demo video 1,youtube
+SYN002,demo_b,2026-09-02T15:20:00Z,"This video editing tip was really useful, thanks!",5,0,creator burnout,Synthetic demo video 2,youtube
+SYN003,demo_c,2026-09-03T01:15:00Z,Trying to stay relevant online all the time is draining me.,18,1,creator burnout,Synthetic demo video 3,youtube
+SYN004,demo_d,2026-09-04T20:05:00Z,I deleted the apps for a week and felt much better.,7,0,digital detox,Synthetic demo video 4,youtube
