@@ -1,0 +1,57 @@
+# Python bytecode and tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / packaging output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local secrets (keep sanitized examples trackable)
+.env
+.env.*
+!.env.example
+!.env.*.example
+.streamlit/secrets.toml
+.streamlit/secrets.*.toml
+secrets.toml
+*.pem
+*.key
+
+# Extracted data and generated analysis exports
+/data/*.csv
+/data/**/*.csv
+/youtube_burnout_*.csv
+/exports/
+/reports/generated/
+
+# Runtime / temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Local editor and OS state
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
